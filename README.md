@@ -129,5 +129,5 @@
 ## 🐍 My Contribution Graph
 	
 <p align = "center">
-	<img src = "./github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "./github-contribution-grid-snake.svg" alt ="Snake Game"/>
 </p>
