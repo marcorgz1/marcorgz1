@@ -84,6 +84,20 @@
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/pinterest-be121b.svg?&style=plastic&logo=pinterest&logoColor=white"/></a>
+
+</p>
+
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl5ZDB3Y2dtcWNpaWo2YmQ3Z2pqOXVpbmZuZGgxOTR3cjF1djN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ghvIo7W8i5cxIWcpJV/giphy.webp" width = 50px>  </picture> Social
+
+<p align="center">
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Deviantart-05CC47.svg?&style=plastic&logo=deviantart&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/TikTok-000000.svg?&style=plastic&logo=tiktok&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDE
