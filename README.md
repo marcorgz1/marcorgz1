@@ -1,6 +1,6 @@
-<h1 align="center">Hola , soy Markix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , mi nombre es Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF00F7&size=40&center=true&vCenter=true&width=600&height=100&lines=Full Stack Developer;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
 
@@ -17,7 +17,7 @@
 - 💫 Soy una persona `tímida pero trabajadora y seria`.
 - 🧑🏻‍💻 Me encanta `aprender cosas nuevas y resolver problemas que puedan surgir`.
 - 🖥️ Actualmente tengo `conocimientos básicos sobre diferentes lenguajes de programación`.
-- 🧑🏻‍🎓 Acabo de terminar el Grado Superior mencioando anteriormente y me gustaría realizar un máster de [Desarrollo Web Full-Stack + MultiCloud](https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/) o trabajar en algo sobre lo que he estudiado si no llegara a obtener plaza.
+- 🧑🏻‍🎓 Acabo de terminar el Grado Superior mencioando anteriormente y actualmente estoy realizando un máster de [Full-Stack Development]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
 - 🤝 Siempre con ganas de `aprender nuevas cosas`.
 - 💭 Actualmente estoy abierto a una `oportunidad de trabajo`, en este enlace puedes visitar [mi perfil de Linkedin](https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/).
 
@@ -37,10 +37,6 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 
 <p align="center">
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
@@ -86,9 +82,6 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white"/></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pinterest-be121b.svg?&style=plastic&logo=pinterest&logoColor=white"/></a>
-
 </p>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl5ZDB3Y2dtcWNpaWo2YmQ3Z2pqOXVpbmZuZGgxOTR3cjF1djN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ghvIo7W8i5cxIWcpJV/giphy.webp" width = 50px>  </picture> Social
@@ -98,6 +91,9 @@
     <a href="#"><img src="https://img.shields.io/badge/Deviantart-05CC47.svg?&style=plastic&logo=deviantart&logoColor=white"/></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/TikTok-000000.svg?&style=plastic&logo=tiktok&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDE
