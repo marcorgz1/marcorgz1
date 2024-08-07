@@ -14,7 +14,7 @@
 <br><br>
 
 - 🧑🏻‍🏫 Soy `Junior` en programación. He realizado un Grado Medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y un [Grado Superior de Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) en el [Colegio Valle del Miro](https://www.colegiovalledelmiro.es/).
-- 💫 Soy una persona `tímida pero trabajadora y seria`.
+- 💫 Soy una persona `trabajadora y seria`.
 - 🧑🏻‍💻 Me encanta `aprender cosas nuevas y resolver problemas que puedan surgir`.
 - 🖥️ Actualmente tengo `conocimientos básicos sobre diferentes lenguajes de programación`.
 - 🧑🏻‍🎓 Acabo de terminar el Grado Superior mencioando anteriormente y actualmente estoy realizando un máster de [Full-Stack Development]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
