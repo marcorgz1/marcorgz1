@@ -27,6 +27,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact Me
 <p align="center">
 	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -84,18 +85,6 @@
     <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white"/></a>
 </p>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl5ZDB3Y2dtcWNpaWo2YmQ3Z2pqOXVpbmZuZGgxOTR3cjF1djN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ghvIo7W8i5cxIWcpJV/giphy.webp" width = 50px>  </picture> Social
-
-<p align="center">
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Deviantart-05CC47.svg?&style=plastic&logo=deviantart&logoColor=white"/></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/TikTok-000000.svg?&style=plastic&logo=tiktok&logoColor=white"/></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-</p>
-
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDE
  
 <p align="center">
@@ -107,25 +96,23 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 <br> 
 
 ---
 
-<br> 
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+<br>
 	
 ## 🐍 My Contribution Graph
 	
 <p align = "center">
-	<img src = "./github-contribution-grid-snake.svg" alt ="Snake Game"/>
+  <img src = "./github-contribution-grid-snake.svg" alt ="Snake Game"/>
 </p>
