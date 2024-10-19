@@ -22,7 +22,7 @@
 
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Programming Languages</h2>
 
 <p align="center">
   &emsp;
@@ -43,7 +43,8 @@
     <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </picture>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development</h2>
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -63,27 +64,27 @@
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>Software & Tools</h2>
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" width="50"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="75"></a>
   &emsp;
-   <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white"/></a>
+   <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white" width="75"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDE
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture>IDE</h2>
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" width="125"></a>
 </p>
 
- ### <h2><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture> Operative Systems</h2>
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Operative Systems</h2>
  
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center;">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
   &emsp;
@@ -91,12 +92,13 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" width="120" /></a>
 </p>
 
-## <h2><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture>Contact Me</h2>
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
+
 <p align="center">
-	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="100" alt="GitHub"/></a>
+	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="85" alt="GitHub"/></a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="100" alt="LinkedIn"/></a>
 </p>
