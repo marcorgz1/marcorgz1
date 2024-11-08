@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF0099&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+@marco.rgz_;Junior+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%25C500FF &size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Junior+Programmer;Always learning"></a>
 </p>
 
 
