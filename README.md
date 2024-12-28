@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23DC00FF&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Junior+Programmer;Always+learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23DC00FF&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Junior+Programmer;Always+learning+new+things"></a>
 </p>
 
 
@@ -14,11 +14,11 @@
 
 <br><br>
 
-- 🧑🏻‍🏫 Soy `Junior` en programación. He realizado un Grado Medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y un [Grado Superior de Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) en el [Colegio Valle del Miro](https://www.colegiovalledelmiro.es/).
+- 🧑🏻‍🏫 Soy `Junior` en programación. He realizado un Grado Medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y un [Grado Superior de Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html).
 - 💫 Soy una persona `trabajadora y seria`.
-- 🧑🏻‍💻 Me encanta `aprender cosas nuevas y resolver problemas que puedan surgir`.
+- 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre el ámbito`.
 - 🖥️ Actualmente tengo `conocimientos básicos sobre diferentes lenguajes de programación`.
-- 🧑🏻‍🎓 Acabo de terminar el Grado Superior mencioando anteriormente y actualmente estoy realizando un máster de [Full-Stack Development]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
+- 🧑🏻‍🎓 Actualmente estoy realizando un máster de [Full-Stack Development]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
 - 🤝 Siempre con ganas de `aprender nuevas cosas`.
 - 💭 Actualmente estoy abierto a una `oportunidad de trabajo`, en este enlace puedes visitar [mi perfil de Linkedin](https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/).
 
@@ -82,19 +82,21 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" width="125"></a>
+  &emsp;
+    <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="border-radius: 12px;" width="85"></a>
 </p>
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Operative Systems</h2>
  
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 12px;" /></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="border-radius: 12px;" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" style="border-radius: 12px;" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" width="120" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" width="120" style="border-radius: 12px;" /></a>
 </p>
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
@@ -108,11 +110,3 @@
 <br> 
 
 ---
-
-<br>
-	
-## 🐍 My Contribution Graph
-	
-<p align = "center">
-  <img src = "./github-contribution-grid-snake.svg" alt ="Snake Game"/>
-</p>
