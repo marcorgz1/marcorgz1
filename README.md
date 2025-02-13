@@ -21,12 +21,14 @@
 
 <br>
 
+<!--
+
 <div style="display: flex; justify-content: center; margin-top: 100px;">
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysugbewftz47gmqusjhn4vjime&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=bb00ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
+-->
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Programming Languages</h2>
 
@@ -110,7 +112,3 @@
 	&emsp;
 	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="75" alt="LinkedIn"/></a>
 </p>
-
-<br> 
-
----
