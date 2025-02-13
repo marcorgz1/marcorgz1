@@ -17,12 +17,16 @@
 - 🧑🏻‍🏫 Soy `Junior` en programación. He realizado un Grado Medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y un [Grado Superior de Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html).
 - 💫 Soy una persona `trabajadora y seria`.
 - 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre el ámbito`.
-- 🖥️ Actualmente tengo `conocimientos básicos sobre diferentes lenguajes de programación`.
-- 🧑🏻‍🎓 Actualmente estoy realizando un máster de [Full-Stack Development]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
 - 🤝 Siempre con ganas de `aprender nuevas cosas`.
-- 💭 Actualmente estoy abierto a una `oportunidad de trabajo`, en este enlace puedes visitar [mi perfil de Linkedin](https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/).
 
 <br>
+
+<div style="display: flex; justify-content: center; margin-top: 100px;">
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysugbewftz47gmqusjhn4vjime&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=bb00ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Programming Languages</h2>
 
@@ -101,10 +105,10 @@
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
 
-<p align="center">
-	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="85" alt="GitHub"/></a>
+<p align="center" style="margin-top: 36px;">
+	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="75" alt="GitHub"/></a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="100" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="75" alt="LinkedIn"/></a>
 </p>
 
 <br> 
