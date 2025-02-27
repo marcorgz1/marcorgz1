@@ -1,23 +1,28 @@
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hola! Soy Marco
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&color=%23DC00FF&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Junior+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&color=%2300e0ff&size=34&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Junior+Programmer;Always+learning+new+things"></a>
 </p>
 
 
 <br>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me</picture> 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- 🧑🏻‍🏫 Soy `Junior` en programación. He realizado un Grado Medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y un [Grado Superior de Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html).
+- 🧑🏻‍🏫 He estudiado un grado medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y uno superior de [Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html).
+- Soy un `programador junior` que se dedica a la creación de aplicaciones web y además me gusta aprender cosas sobre `entornos Linux` en mis ratos libres.
 - 💫 Soy una persona `trabajadora y seria`.
 - 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre el ámbito`.
 - 🤝 Siempre con ganas de `aprender nuevas cosas`.
+- 🖥️ Dispongo de `conocimientos básicos sobre diferentes lenguajes de programación`.
+- 🧑🏻‍🎓 Actualmente estoy realizando un máster de Full-Stack Development en [Nuclio Digital School]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
+- 💭 Estoy abierto a una `oportunidad de trabajo`, aquí puedes visitar [mi perfil de Linkedin](https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/).
 
 <br>
 
@@ -83,7 +88,7 @@
    <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white" width="75"/></a>
 </p>
 
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture>IDE</h2>
+<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture>IDEs</h2>
  
 <p align="center">
   &emsp;
@@ -107,8 +112,20 @@
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
 
+<<<<<<< HEAD
 <p align="center" style="margin-top: 36px;">
 	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="75" alt="GitHub"/></a>
+=======
+<p align="center">
+	<a href="https://github.com/marcorgz1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="85" alt="GitHub"/></a>
+>>>>>>> befb6f3 (add: Update README file)
 	&emsp;
 	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="75" alt="LinkedIn"/></a>
 </p>
+<<<<<<< HEAD
+=======
+
+<br> 
+
+---
+>>>>>>> befb6f3 (add: Update README file)
