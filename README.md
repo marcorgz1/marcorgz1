@@ -112,20 +112,10 @@
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
 
-<<<<<<< HEAD
-<p align="center" style="margin-top: 36px;">
-	<a href="https://github.com/Markix1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="75" alt="GitHub"/></a>
-=======
+<br />
+
 <p align="center">
 	<a href="https://github.com/marcorgz1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="85" alt="GitHub"/></a>
->>>>>>> befb6f3 (add: Update README file)
 	&emsp;
 	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="75" alt="LinkedIn"/></a>
 </p>
-<<<<<<< HEAD
-=======
-
-<br> 
-
----
->>>>>>> befb6f3 (add: Update README file)
