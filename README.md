@@ -15,12 +15,12 @@
 
 <br><br>
 
+- Soy un `programador junior` que se dedica a la creación de aplicaciones web.
+- En mis ratos libres, me gusta aprender conceptos sobre `entornos Linux`, ir al gimnasio y jugar ping pong.
 - 🧑🏻‍🏫 He estudiado un grado medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y uno superior de [Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html).
-- Soy un `programador junior` que se dedica a la creación de aplicaciones web y además me gusta aprender cosas sobre `entornos Linux` en mis ratos libres.
 - 💫 Soy una persona `trabajadora y seria`.
 - 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre el ámbito`.
-- 🤝 Siempre con ganas de `aprender nuevas cosas`.
-- 🖥️ Dispongo de `conocimientos básicos sobre diferentes lenguajes de programación`.
+- 🖥️ Me especializo en el stack tecnológico `MERN` ya que considero que ofrece una buena salida laboral.
 - 🧑🏻‍🎓 Actualmente estoy realizando un máster de Full-Stack Development en [Nuclio Digital School]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
 - 💭 Estoy abierto a una `oportunidad de trabajo`, aquí puedes visitar [mi perfil de Linkedin](https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/).
 
